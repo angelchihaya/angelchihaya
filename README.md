@@ -1,6 +1,6 @@
 <div align="center">
    
-   ![](https://komarev.com/ghpvc/?username=princessofsolaria&color=blue&label=݁୨ৎ%20Feathers)
+   ![](https://komarev.com/ghpvc/?username=princessofsolaria&color=blue&label=݁𝄢%20Feathers)
 
 wip
 
